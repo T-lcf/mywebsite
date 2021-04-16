@@ -1,0 +1,7 @@
+.new{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    display: inline-block;
+    left: 100px;
+}
